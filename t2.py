@@ -1,0 +1,15 @@
+from turtle import *
+pencolor('red')
+speed('slowest')
+fd(100)
+lt(72)
+fd(100)
+lt(72)
+fd(100)
+lt(72)
+fd(100)
+lt(72)
+fd(100)
+lt(72)
+
+mainloop()
